@@ -59,3 +59,4 @@ hist(data$Global_active_power,
 
 ## Shutdown devive (for saving on file reasons)
 dev.off()
+
